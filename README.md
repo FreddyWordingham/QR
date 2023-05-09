@@ -32,5 +32,5 @@ poetry run python scripts/run.py message file_name
 ### Example
 
 ```shell
-poetry run python scripts/run.py https://github.com/RadiantTechLtd/Guides/ radiant_tech.png
+poetry run python scripts/run.py https://github.com/FreddyWordingham/QR qr_code.png
 ```
