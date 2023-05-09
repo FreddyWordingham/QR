@@ -1,5 +1,9 @@
 # QR Code Generator
 
+<p align="center">
+    <img src="./resources/images/logo.svg" width="200" height="200" />
+</p>
+
 Use `Python` to generate QR codes.
 
 ## Quick Start
